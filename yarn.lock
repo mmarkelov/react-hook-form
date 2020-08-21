@@ -7890,10 +7890,10 @@ react-native@^0.63.2:
     use-subscription "^1.0.0"
     whatwg-fetch "^3.0.0"
 
-react-performance-testing@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/react-performance-testing/-/react-performance-testing-1.1.2.tgz#7ad2676dc7feecd83456e8efc2049107d21fc500"
-  integrity sha512-Q+JT9PKmEnDZCMTLl/yfNadXSMx7HO3TpJZLqKdtcBpoy5xCwSCN7D42bu4Zf4sYGvSQTPUjGlkAvg9ulIsMnA==
+react-performance-testing@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-performance-testing/-/react-performance-testing-1.2.0.tgz#dd9d2d5b554903beb44af13c3c810f28f112f11c"
+  integrity sha512-cLowuSXtkWlfkOD5Xb9xUE0GCgyOsOPetLkZjXbowl5EA9lnWb7BLoAiMF2p+F3DjXw8sAgf03vYiveIOm0VCA==
   dependencies:
     "@types/react-native" "^0.63.8"
     "@types/styled-components" "^5.1.2"
